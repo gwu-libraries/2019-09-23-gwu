@@ -386,6 +386,7 @@ please preview your site before committing, and make sure to run
           </li>
         </ol>
         <p>This will provide you with both Git and Bash in the Git Bash program.</p>
+        <p>To connect Git with your RStudio, after having installed RStudio, follow the <a href="https://github.com/gwu-libraries/gwlibraries-workshops/blob/master/r-with-git/README.md">Setup instructions for RStudio + Git for Collaboration and Reproducibility</a></p>
       </article>
       <article role="tabpanel" class="tab-pane active" id="shell-macos">
         <p>
@@ -406,6 +407,7 @@ please preview your site before committing, and make sure to run
           terminal and typing <code>bash</code>.  There is no need to
           install anything.
         </p>
+        <p>To connect Git with your RStudio, after having installed RStudio, follow the <a href="https://github.com/gwu-libraries/gwlibraries-workshops/blob/master/r-with-git/README.md">Setup instructions for RStudio + Git for Collaboration and Reproducibility</a></p>
       </article>
     </div>
   </div>
