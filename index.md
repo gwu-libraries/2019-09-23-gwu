@@ -463,6 +463,7 @@ please preview your site before committing, and make sure to run
           most recent available installer labelled "snow-leopard"
           <a href="http://sourceforge.net/projects/git-osx-installer/files/">available here</a>.
         </p>
+        <p>To connect Git with your RStudio, after having installed RStudio, follow the <a href="https://github.com/gwu-libraries/gwlibraries-workshops/blob/master/r-with-git/README.md">Setup instructions for RStudio + Git for Collaboration and Reproducibility</a></p>
       </article>
       <article role="tabpanel" class="tab-pane active" id="git-linux">
         <p>
