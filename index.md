@@ -15,7 +15,8 @@ instructor: ["Dan Kerchner, Laura Wrubel"] # boxed, comma-separated list of inst
 helper: ["Jason Hurlburt, Marco Suarez"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["lwrubel@gwu.edu", "kerchner@gwu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: http://pad.carpentries.org/2019-09-23-gwu             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: "70506395527"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+<!-- eventbrite: "70506395527"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used) -->
+eventbrite: 
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -63,7 +64,8 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2 id="general">General Information</h2>
-
+<h3>This workshop is full.</h3>
+<p>To be put on the waitlist, email: lwrubel@gwu.edu</p>
 {% comment %}
 INTRODUCTION
 
